@@ -3,7 +3,7 @@
 function Createdb(){
     $servername = "project-2-database.c7ck0m2qst7g.us-east-1.rds.amazonaws.com";
     $username = "project2";
-    $password = "NQQRGEepzFiKT45zuQCE";
+    $password = "Klo4ipiPCW3HnDujeNB5";
     $dbname = "bookstore";
 
     // create connection
